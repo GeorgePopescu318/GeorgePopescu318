@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @GeorgePopescu318
-- 👀 I’m interested in learning new stuff
-- 🌱 I’m currently learning C and other programing languages.
-- 💞️ I’m looking to collaborate on well I don't really know what 
-- 📫 How to reach me email: georgepopescu318@gmail.com
+# ✨ <tt> **Hello there!** </tt>✨
 
-<!---
-GeorgePopescu318/GeorgePopescu318 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##  🐝 The name is George 🐝
+### 🎓 Student at *University of Bucharest* 🎓
+### 💿 Currently learning `C` 💿
+### 👍 *Books* 📗 **Games** 💣 <u>Basketball</u> 🏀  
+### 💻 <tt> Interested in `Godot` </tt> 💻
+##  👀 <sup> Looking to learn new stuff </sup> 👀
+### 👋 Happy to meet new people 👋
+### 📧 Email: georgepopescu318@gmail.com 📧
+##  📋[**First repository**](https://github.com/GeorgePopescu318/Useful-Code)📋
