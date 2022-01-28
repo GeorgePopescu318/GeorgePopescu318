@@ -8,4 +8,5 @@
 ##  👀 <sup> Looking to learn new stuff </sup> 👀
 ### 👋 Happy to meet new people 👋
 ### 📧 Email: georgepopescu318@gmail.com 📧
-##  📋[**First repository**](https://github.com/GeorgePopescu318/Useful-Code)📋
+##  📂[**First repository**](https://github.com/GeorgePopescu318/Useful-Code)📂
+### 🔜 Future *leader* 🔜
